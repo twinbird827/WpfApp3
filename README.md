@@ -25,7 +25,7 @@ DoubleClickBehaivor.cs - ÀÞÌÞÙ¸Ø¯¸—p‚Ì“Y•tËÞÍ²ËÞ±
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/twinbird827/WpfApp3/blob/master/LICENSE)
 
 ## Author
 
